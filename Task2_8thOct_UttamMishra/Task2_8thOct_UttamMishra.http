@@ -1,0 +1,6 @@
+@Task2_8thOct_UttamMishra_HostAddress = http://localhost:5196
+
+GET {{Task2_8thOct_UttamMishra_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
